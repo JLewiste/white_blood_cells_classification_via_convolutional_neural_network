@@ -1,18 +1,23 @@
 # White-Blood-Cells-Classification-via-Convolutional-Neural-Network
 
 Basophil
+<br /> 
 ![Pictures](Pictures/basophil.jpg)
 
 Eosinophil
+<br /> 
 ![Pictures](Pictures/eosinophil.jpg)
 
 Lymphocyte
+<br /> 
 ![Pictures](Pictures/lymphocyte.jpg)
 
 Monocyte
+<br /> 
 ![Pictures](Pictures/monocyte.jpg)
 
 Neutrophil
+<br /> 
 ![Pictures](Pictures/neutrophil.jpg)
 
 Given images of white blood cells, classify them as MONONUCLEAR(NEUTROPHIL, EOSINOPHIL) OR POLYNUCLEAR(BASOPHIL, LYMPHOCYTE, MONOCYTE).
