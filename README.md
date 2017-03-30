@@ -26,6 +26,6 @@ An important problem in blood diagnostics is classifying different types of bloo
 
 White blood cells images and dataset are provided by Athelas.
 
-Achieved 0.994 accuracy.
+Achieved 0.994 accuracies.
 
 
