@@ -1,4 +1,4 @@
-# White-Blood-Cells-Classification-via-Convolutional-Neural-Network
+# White blood cells classification via convolutional neural network
 
 Basophil
 <br /> 
